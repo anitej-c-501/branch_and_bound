@@ -1,0 +1,17 @@
+=== Summary Table ===
+instance    strategy  nodes  runtime  gap  fair_node_number
+   air05     default    983    371.9  0.0            1883.8
+   air05      random    983    354.8  0.0            1797.5
+   air05  pseudocost    983    330.4  0.0            1673.8
+   air05      strong    983    325.6  0.0            1649.6
+   air05 reliability    983    194.1  0.0             983.0
+ cap6000     default   2477      5.3  0.0            3620.1
+ cap6000      random   2477      8.5  0.0            5789.8
+ cap6000  pseudocost   2477      7.6  0.0            5168.2
+ cap6000      strong   2477      7.6  0.0            5203.9
+ cap6000 reliability   2477      3.6  0.0            2477.0
+  misc07     default   1835     11.8  0.0            3018.6
+  misc07      random   1835     10.2  0.0            2602.3
+  misc07  pseudocost   1835      8.1  0.0            2071.4
+  misc07      strong   1835     10.4  0.0            2642.0
+  misc07 reliability   1835      7.2  0.0            1835.0
