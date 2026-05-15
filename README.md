@@ -15,11 +15,13 @@ pip install pyscipopt numpy pandas matplotlib
 Python 3.10+ recommended.
 
 ## Project Structure
+
+```
 Final_Project/
-├── final_project_code.py   # Main experiment runner
-├── plot_results.py         # Generates all plots from results.csv
-├── results.csv             # Experimental results (all strategies and instances)
-├── instances/              # MIPLIB .mps instance files (download separately)
+├── final_project_code.py   
+├── plot_results.py         
+├── results.csv             
+├── instances/              
 │   ├── air05.mps
 │   ├── cap6000.mps
 │   ├── fiber.mps
@@ -30,6 +32,7 @@ Final_Project/
 ├── plot_time_per_node.png
 ├── plot_fair_node_number.png
 └── README.md
+```
 
 ## Getting the Instances
 
